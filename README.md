@@ -1,7 +1,7 @@
 # Dominoes
 A simple Dominoes game, user vs computer AI.
 
-key mapping:
+Key mapping:
 
 • Place domino on the right side: type positive number of the desired piece.
 
