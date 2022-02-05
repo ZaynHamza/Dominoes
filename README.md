@@ -12,4 +12,4 @@ Key mapping:
 • When it's the computer turn: press Enter.
 
 # What I learned:
-•
+• List methods and simple AI.
